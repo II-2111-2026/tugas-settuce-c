@@ -12,12 +12,12 @@ Format jawaban:
 from __future__ import annotations
 def q01() -> bool:
     """[T/F] Jika dua kejadian A dan B saling lepas, maka P(A∩B) = 0."""
-    raise NotImplementedError
+    return
 
 def q02() -> bool:
     """[T/F] Probabilitas dari gabungan dua kejadian selalu lebih besar daripada probabilitas
 masing-masing kejadian."""
-    raise NotImplementedError
+    return False
 
 def q03() -> bool:
     """[T/F] Hukum komplemen menyatakan bahwa P(A)+P(Ac) = 1."""
