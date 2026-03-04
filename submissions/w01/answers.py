@@ -13,7 +13,7 @@ from __future__ import annotations
 def q01() -> bool:
     """[T/F] Dalam model probabilistik, output yang sama akan selalu dihasilkan dari input yang
 sama terlepas dari variasi acak."""
-    raise NotImplementedError
+    return False
 
 def q02() -> bool:
     """[T/F] Ruang sampel dari sebuah eksperimen acak harus mencakup semua hasil yang
