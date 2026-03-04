@@ -18,7 +18,7 @@ sama terlepas dari variasi acak."""
 def q02() -> bool:
     """[T/F] Ruang sampel dari sebuah eksperimen acak harus mencakup semua hasil yang
 mungkin terjadi tanpa tumpang tindih."""
-    return True
+    return False
 
 def q03() -> bool:
     """[T/F] Probabilitas empiris mendekati probabilitas teoretis ketika jumlah percobaan
